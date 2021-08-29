@@ -1,1 +1,44 @@
-<p style="text-align: center">the beatings will continue until morale improves</p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>cripspeak converter</title>
+    <link rel="stylesheet" type="text/css" href="/stylez.css">
+  </head>
+  
+<body>
+
+
+
+  
+  <input type="text" id="input">
+  
+    <textarea id="output"></textarea>
+
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  let str = document.getElementById("input").value; 
+  let res = str.replace(/ck/g, "cc");
+  document.getElementById("output").innerHTML = res;
+}
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
