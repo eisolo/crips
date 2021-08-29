@@ -6,8 +6,12 @@ height: 100vh;
 }
 
 .the-button {
-  text-align: center;
   font-size: 20px;
+  width: 40%;
+}
+
+.press-it {
+  text-align: center;
 }
 
 
