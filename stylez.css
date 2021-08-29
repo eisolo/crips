@@ -10,6 +10,10 @@ background-repeat: repeat-x;
   width: 40%;
 }
 
+.h3-class {
+  color: white;
+}
+
 .press-it {
   text-align: center;
 }
@@ -23,4 +27,5 @@ body {
 
 textarea {
   width: 95%;
+  display: block;
 }
