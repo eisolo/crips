@@ -8,10 +8,12 @@ background-repeat: repeat-x;
 .the-button {
   font-size: 20px;
   width: 40%;
+  padding: 5px;
 }
 
 .h3-class {
   color: white;
+  padding-left: 12px;
 }
 
 .press-it {
