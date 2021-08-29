@@ -5,6 +5,18 @@ background-repeat: repeat-x;
   padding-bottom: 200px;
 }
 
+.p-top {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 13px;
+}
+
+.p-btm {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 13px;
+}
+
 .the-button {
   font-size: 20px;
   width: 40%;
