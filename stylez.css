@@ -2,7 +2,7 @@ html {
   background-image: url("/snoop.jpg");
 background-position: center center;
 background-repeat: repeat-x;
-height: 100vh;
+  padding-bottom: 200px;
 }
 
 .the-button {
@@ -22,5 +22,5 @@ body {
  }
 
 textarea {
-  max-width: 100%;
+  width: 95%;
 }
