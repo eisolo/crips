@@ -16,7 +16,7 @@
     <p class="press-it"><button class="the-button" onclick="myFunction()">Clicc it, bitch</button></p>
 
 <script>
-  window.onload = function myFunction() {
+  window.onload = myFunction() {
   let str = document.getElementById("input").value; 
   let res = str.replace(/ck/g, "cc");
   document.getElementById("output").innerHTML = res;
